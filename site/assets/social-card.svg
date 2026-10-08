@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbf5ec"/>
+  <path d="M800 543V241a143 143 0 0 1 286 0v302Z" fill="#efe4d3" stroke="#c9b99e"/>
+  <path d="M943 101v442M801 315h285" fill="none" stroke="#c9b99e"/>
+  <circle cx="1094" cy="113" r="21" fill="none" stroke="#bba68d"/>
+  <path d="M65 80h646M65 552h1064" stroke="#dfd1c1"/>
+  <svg x="843" y="231" width="198" height="198" viewBox="0 0 1024 1024"><rect x="64" y="64" width="896" height="896" rx="208" fill="#fafaf7"/><rect x="264" y="202" width="496" height="620" rx="72" fill="#454351"/><rect x="332" y="272" width="360" height="198" rx="26" fill="#fafaf7"/><rect x="332" y="538" width="360" height="214" rx="26" fill="#fafaf7"/></svg>
+  <g fill="#49392f" font-family="'Songti SC','STSong',serif">
+    <text x="65" y="169" font-size="30">日子 <tspan font-family="-apple-system,BlinkMacSystemFont,sans-serif" font-size="24">Rizi</tspan></text>
+    <text x="64" y="283" font-size="72">让下一次，</text>
+    <text x="64" y="379" font-size="72" fill="#91573e">接着这一次。</text>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,sans-serif" fill="#766052">
+    <text x="69" y="452" font-size="21">一件件做好，一天天相处</text>
+    <text x="69" y="506" font-size="16">Pick up where you left off.</text>
+    <text x="930" y="588" font-size="14">rizi.d-ruby.com</text>
+  </g>
+</svg>

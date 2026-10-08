@@ -1,0 +1,17 @@
+The small task I wanted to finish:
+App version: 0.9.0-rc.4
+macOS and Mac model:
+Interface / result language:
+Actual outcome: used / used after changes / not used / not finished
+Did I open a saved v1?
+Did I save a revision of the same result?
+Could I find both versions after reopening?
+Most useful part / one thing to improve:
+
+If I got stuck:
+Step: installation / model / import / submit / read / revise / reopen
+What I clicked:
+Error shown (reviewed and stripped of private information):
+Had a receipt or result already appeared?
+Did I retry, and what happened?
+Model wait / cost (write “not recorded” if unknown):

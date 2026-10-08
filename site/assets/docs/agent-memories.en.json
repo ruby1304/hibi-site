@@ -1,0 +1,22 @@
+{
+  "format": "rizi-agent-memories",
+  "schemaVersion": 1,
+  "source": {
+    "agent": "custom",
+    "id": "sample-conversation",
+    "label": "Fictional practice conversation"
+  },
+  "entries": [
+    {
+      "id": "report-style",
+      "type": "work-preference",
+      "text": "Start reports with the conclusion, then risks.",
+      "evidence": {
+        "role": "user",
+        "quote": "Please start future reports with the conclusion, then risks.",
+        "at": null,
+        "reference": null
+      }
+    }
+  ]
+}

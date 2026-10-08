@@ -1,0 +1,140 @@
+{
+  "format": "rizi-public-site-v1",
+  "files": [
+    {
+      "path": "assets/community.css",
+      "bytes": 13861,
+      "sha256": "5950e2aff22d07dd1d118d9c6577a49dbb44add26de1665ae0a1bb66da26097d"
+    },
+    {
+      "path": "assets/community.js",
+      "bytes": 13835,
+      "sha256": "aa7051477f2db865bf6231244d33c35d322d12fab1db5e481624d9878b6bdd73"
+    },
+    {
+      "path": "assets/docs/agent-memories.en.json",
+      "bytes": 518,
+      "sha256": "87c731d1404a14240d11dab04a70153380e9463bec6bd4d0a7e952f8b558eb9b"
+    },
+    {
+      "path": "assets/docs/agent-memories.zh.json",
+      "bytes": 480,
+      "sha256": "0cce50aa7eb4c180e996a49d6e7789641885ba795f7a157986fb9cb62dcf0924"
+    },
+    {
+      "path": "assets/docs.css",
+      "bytes": 5859,
+      "sha256": "9ced412ca7a5a2601a2283c0ce7fb00a1db764aff0b960307f52089be27d3354"
+    },
+    {
+      "path": "assets/docs.js",
+      "bytes": 1305,
+      "sha256": "bc0d4ae4b9ebaa3091513ed10242d3b4d6a128d61594ecc31737e1c4d6b5b97a"
+    },
+    {
+      "path": "assets/logo.svg",
+      "bytes": 379,
+      "sha256": "630fd96edc3da531b9757d7e4655461b15a7dc4afc3ce3b6e0c859da63cf01bf"
+    },
+    {
+      "path": "assets/site.js",
+      "bytes": 4410,
+      "sha256": "54a225491ab9b50e0b1dd3404489998e4b830af950d2c5313b8aab0e99fc0480"
+    },
+    {
+      "path": "assets/social-card.png",
+      "bytes": 61699,
+      "sha256": "57437cebbd2c72efc4826afa7eff35c1cd5a86932b25b4fb3f89aa458da80147"
+    },
+    {
+      "path": "assets/social-card.svg",
+      "bytes": 1448,
+      "sha256": "cb4bd5a42d0bd1de86ebefcba2ad99aed7cd81916995be02fd29e43013f8a2ae"
+    },
+    {
+      "path": "assets/start/book-swap.en.txt",
+      "bytes": 384,
+      "sha256": "e81348558d70e3a9a22c77184663d68a0d72d65e4ac5d84ef6adda7381d2a56b"
+    },
+    {
+      "path": "assets/start/book-swap.zh.txt",
+      "bytes": 323,
+      "sha256": "0dc318e16d789fb6b752208a8b1e518d75ae0e413bd1112a6c261e92f992fa1c"
+    },
+    {
+      "path": "assets/start/feedback.en.txt",
+      "bytes": 621,
+      "sha256": "9fe18db64af87d19a0a6645af146c864135104381611a43d84e97416e3cf5f25"
+    },
+    {
+      "path": "assets/start/feedback.zh.txt",
+      "bytes": 648,
+      "sha256": "5a16c6fea18b5400fba60449d3aadc1e3aee7ae2756366720d93897babf1205a"
+    },
+    {
+      "path": "assets/start/task.en.txt",
+      "bytes": 210,
+      "sha256": "d0334392edd08361576483acbfbb3cef31944e3463c983f474c8bc094e88e84d"
+    },
+    {
+      "path": "assets/start/task.zh.txt",
+      "bytes": 214,
+      "sha256": "9adc9cf0599823ca2158c8a9999e3d9ba9caa797adc7299bb5a78fa760d87887"
+    },
+    {
+      "path": "assets/start.css",
+      "bytes": 11804,
+      "sha256": "7c60779e17219219a1bee73b05f8f07a96c2b46019fb9d8064fbf964c05c51a6"
+    },
+    {
+      "path": "assets/start.js",
+      "bytes": 1388,
+      "sha256": "7f0d99db42055a51a1f20033ab604db122cfbd3a6ff4776e78cba14db652fdba"
+    },
+    {
+      "path": "assets/styles.css",
+      "bytes": 38352,
+      "sha256": "927404b0b660636b0b17846223437224acdbb356d4e1a7ff28cf77fdb9e95c70"
+    },
+    {
+      "path": "docs/index.html",
+      "bytes": 15202,
+      "sha256": "bb321d468ed70decbb42f8817c850c97ef8cb801f94049cee79573cfe4f54682"
+    },
+    {
+      "path": "en/docs/index.html",
+      "bytes": 16437,
+      "sha256": "aa33f2ece6e807b9b9e58169f70fc12e9213bbfecbd55f54278eb26fac8ae172"
+    },
+    {
+      "path": "en/index.html",
+      "bytes": 37280,
+      "sha256": "824cfcea3052abbe8a959dc203e457ecfc884481ff1530fd15dea80ad6a8f7e3"
+    },
+    {
+      "path": "en/start/index.html",
+      "bytes": 20533,
+      "sha256": "3ee92c032ba62a3e805bbe0bed5cb216d04c6ddbd69c10560509ec21f4cffec8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 35513,
+      "sha256": "d3281c7aee660759f2d99f8941da04a6e91ce0af7098ee14decec8fdffbad9b8"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 68,
+      "sha256": "c6e4c9fd188a0162e598fb06234eae4b043b0e84d7192ccb9e52c11c11653307"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 416,
+      "sha256": "3e25f0c79639f5026f4e1a513aa8c33bed739352f8ef2b8e2dce2af82db405be"
+    },
+    {
+      "path": "start/index.html",
+      "bytes": 19594,
+      "sha256": "e651226304e3fbf23a5fb2518fe9e8e8ba5c084973a25187757001b70ba89d32"
+    }
+  ]
+}

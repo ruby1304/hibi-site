@@ -1,0 +1,22 @@
+{
+  "format": "rizi-agent-memories",
+  "schemaVersion": 1,
+  "source": {
+    "agent": "custom",
+    "id": "sample-conversation",
+    "label": "虚构练习对话"
+  },
+  "entries": [
+    {
+      "id": "report-style",
+      "type": "work-preference",
+      "text": "报告先给结论，再列风险。",
+      "evidence": {
+        "role": "user",
+        "quote": "以后报告请先给结论，再列风险。",
+        "at": null,
+        "reference": null
+      }
+    }
+  ]
+}
